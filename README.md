@@ -2,7 +2,7 @@
 
 ## Right Education Need Right School
 
-**Project Name - Path Findr** [website link!]  https://path-findr.herokuapp.com/
+**Project Name - Path Findr** [website link!]  
 
 ## Introduction
 
